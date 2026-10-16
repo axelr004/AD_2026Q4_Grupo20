@@ -9,5 +9,7 @@ Grupo20
 | Nombre completo | Usuario de GitHub |
 
 | Nombre del integrante 1 | @usuario1 |
+
 | Nombre del integrante 2 | @usuario2 | 
-| Nombre del integrante 3 | @axelr004 | 
+
+| Alexander Ramirez | @axelr004 | 
