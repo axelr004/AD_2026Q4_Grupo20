@@ -8,7 +8,7 @@ Grupo20
 
 | Nombre completo | Usuario de GitHub |
 
-| Nombre del integrante 1 | @usuario1 |
+| Yuleny Pemberty| YULE98PE |
 
 | Nombre del integrante 2 | @usuario2 | 
 
