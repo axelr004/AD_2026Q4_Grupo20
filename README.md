@@ -13,3 +13,7 @@ Grupo20
 | Nombre del integrante 2 | @usuario2 | 
 
 | Alexander Ramirez | @axelr004 | 
+
+| Nombre del integrante 3 | @usuario3 | 
+
+| Estefanía Álvarez | estefaniaalvareza | 
