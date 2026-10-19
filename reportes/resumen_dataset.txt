@@ -2,7 +2,7 @@ RESUMEN DEL DATASET
 =============================================
 
 Cantidad de filas: 344
-Cantidad de columnas: 8
+Cantidad de columnas: 10
 
 NOMBRES DE LAS COLUMNAS
 ---------------------------------------------
@@ -14,40 +14,46 @@ NOMBRES DE LAS COLUMNAS
 - body_mass_g
 - sex
 - year
+- bill_ratio
+- weight_category
 
 TIPOS DE DATOS
 ---------------------------------------------
-species                  str
-island                   str
-bill_length_mm       float64
-bill_depth_mm        float64
-flipper_length_mm    float64
-body_mass_g          float64
-sex                      str
-year                   int64
+species                   str
+island                    str
+bill_length_mm        float64
+bill_depth_mm         float64
+flipper_length_mm     float64
+body_mass_g           float64
+sex                       str
+year                    int64
+bill_ratio            float64
+weight_category      category
 
 VALORES FALTANTES POR COLUMNA
 ---------------------------------------------
-species               0
-island                0
-bill_length_mm        2
-bill_depth_mm         2
-flipper_length_mm     2
-body_mass_g           2
-sex                  11
-year                  0
+species              0
+island               0
+bill_length_mm       0
+bill_depth_mm        0
+flipper_length_mm    0
+body_mass_g          0
+sex                  0
+year                 0
+bill_ratio           0
+weight_category      0
 
 ESTADISTICAS DESCRIPTIVAS
 ---------------------------------------------
-       species  island  bill_length_mm  bill_depth_mm  flipper_length_mm  body_mass_g   sex         year
-count      344     344      342.000000     342.000000         342.000000   342.000000   333   344.000000
-unique       3       3             NaN            NaN                NaN          NaN     2          NaN
-top     Adelie  Biscoe             NaN            NaN                NaN          NaN  male          NaN
-freq       152     168             NaN            NaN                NaN          NaN   168          NaN
-mean       NaN     NaN       43.921930      17.151170         200.915205  4201.754386   NaN  2008.029070
-std        NaN     NaN        5.459584       1.974793          14.061714   801.954536   NaN     0.818356
-min        NaN     NaN       32.100000      13.100000         172.000000  2700.000000   NaN  2007.000000
-25%        NaN     NaN       39.225000      15.600000         190.000000  3550.000000   NaN  2007.000000
-50%        NaN     NaN       44.450000      17.300000         197.000000  4050.000000   NaN  2008.000000
-75%        NaN     NaN       48.500000      18.700000         213.000000  4750.000000   NaN  2009.000000
-max        NaN     NaN       59.600000      21.500000         231.000000  6300.000000   NaN  2009.000000
+       species  island  bill_length_mm  bill_depth_mm  flipper_length_mm  body_mass_g   sex         year  bill_ratio weight_category
+count      344     344      344.000000     344.000000         344.000000   344.000000   344   344.000000  344.000000             344
+unique       3       3             NaN            NaN                NaN          NaN     3          NaN         NaN               3
+top     Adelie  Biscoe             NaN            NaN                NaN          NaN  male          NaN         NaN           Medio
+freq       152     168             NaN            NaN                NaN          NaN   168          NaN         NaN             151
+mean       NaN     NaN       43.925000      17.152035         200.892442  4200.872093   NaN  2008.029070    2.605438             NaN
+std        NaN     NaN        5.443792       1.969060          14.023826   799.696532   NaN     0.818356    0.495930             NaN
+min        NaN     NaN       32.100000      13.100000         172.000000  2700.000000   NaN  2007.000000    1.639810             NaN
+25%        NaN     NaN       39.275000      15.600000         190.000000  3550.000000   NaN  2007.000000    2.161882             NaN
+50%        NaN     NaN       44.450000      17.300000         197.000000  4050.000000   NaN  2008.000000    2.571484             NaN
+75%        NaN     NaN       48.500000      18.700000         213.000000  4750.000000   NaN  2009.000000    3.097572             NaN
+max        NaN     NaN       59.600000      21.500000         231.000000  6300.000000   NaN  2009.000000    3.612676             NaN
