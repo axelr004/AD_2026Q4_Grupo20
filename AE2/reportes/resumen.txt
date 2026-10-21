@@ -1,0 +1,53 @@
+RESUMEN DEL PROCESAMIENTO DE ARCHIVOS - ACTIVIDAD 2
+==================================================
+
+Fecha de generación: 2026-10-21 02:53:13
+
+1. FUENTES DE DATOS
+-------------------
+Dataset CSV: https://huggingface.co/datasets/zhugetd/HeightData
+Dataset JSON: https://huggingface.co/datasets/loge2146/evocorps-neutral-personas
+
+2. ARCHIVOS ORIGINALES
+----------------------
+CSV: AE2/datos_originales/heights.csv
+JSON: AE2/datos_originales/neutral_personas_database.json
+
+3. MODIFICACIONES REALIZADAS
+----------------------------
+CSV: Se modificó el nombre del primer registro.
+Cambio realizado: African Elephant -> African Elephant (revisado)
+
+JSON: Se agregó el campo 'reviewed' al primer registro.
+Cambio realizado: False -> True
+
+4. ARCHIVOS GENERADOS
+---------------------
+CSV modificado: AE2/datos_modificados/heights_modificado.csv
+JSON modificado: AE2/datos_modificados/neutral_personas_database_modificado.json
+
+5. CLASES Y MÉTODOS UTILIZADOS
+------------------------------
+ManejadorCSV:
+- cargar_datos()
+- modificar_datos()
+- guardar_datos()
+
+ManejadorJSON:
+- cargar_datos()
+- modificar_datos()
+- guardar_datos()
+
+GeneradorResumenTXT:
+- generar_resumen()
+
+6. REGISTROS PROCESADOS
+-----------------------
+Registros de datos CSV (sin encabezado): 584
+Registros JSON: 200
+
+7. RESULTADO
+------------
+Los archivos originales se conservaron.
+Las modificaciones se guardaron en archivos separados.
+Este informe documenta las fuentes, el procesamiento y los resultados.
