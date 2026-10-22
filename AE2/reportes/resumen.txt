@@ -1,7 +1,7 @@
 RESUMEN DEL PROCESAMIENTO DE ARCHIVOS - ACTIVIDAD 2
 ==================================================
 
-Fecha de generación: 2026-10-21 02:53:13
+Fecha de generación: 2026-10-22 02:46:02
 
 1. FUENTES DE DATOS
 -------------------
@@ -10,8 +10,8 @@ Dataset JSON: https://huggingface.co/datasets/loge2146/evocorps-neutral-personas
 
 2. ARCHIVOS ORIGINALES
 ----------------------
-CSV: AE2/datos_originales/heights.csv
-JSON: AE2/datos_originales/neutral_personas_database.json
+CSV: /workspaces/AD_2026Q4_Grupo20/AE2/datos_originales/heights.csv
+JSON: /workspaces/AD_2026Q4_Grupo20/AE2/datos_originales/neutral_personas_database.json
 
 3. MODIFICACIONES REALIZADAS
 ----------------------------
@@ -23,8 +23,8 @@ Cambio realizado: False -> True
 
 4. ARCHIVOS GENERADOS
 ---------------------
-CSV modificado: AE2/datos_modificados/heights_modificado.csv
-JSON modificado: AE2/datos_modificados/neutral_personas_database_modificado.json
+CSV modificado: /workspaces/AD_2026Q4_Grupo20/AE2/datos_modificados/heights_modificado.csv
+JSON modificado: /workspaces/AD_2026Q4_Grupo20/AE2/datos_modificados/neutral_personas_database_modificado.json
 
 5. CLASES Y MÉTODOS UTILIZADOS
 ------------------------------
