@@ -19,6 +19,9 @@ Grupo20
 
 ## Recuerden siempre instalar: 
 pandas	Manejar tablas y archivos CSV.
+
 datasets	Cargar conjuntos de datos de Hugging Face.
+
 jupyter	Ejecutar los notebooks.
+
 ipykernel	Conectar Python con el notebook.
