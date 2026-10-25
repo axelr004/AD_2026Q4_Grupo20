@@ -11,7 +11,7 @@ Grupo20
 | Yuleny Pemberty| YULE98PE |
 
 
-| Alexander Ramirez | @axelr004 | 
+| Humberto Alexander Ramirez | @axelr004 | 
 
 
 | Estefanía Álvarez | estefaniaalvareza | 
