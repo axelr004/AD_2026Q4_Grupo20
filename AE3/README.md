@@ -13,7 +13,8 @@ Grupo20
 | Humberto Alexander Ramirez | @axelr004 | 
 
 | Estefanía Álvarez | estefaniaalvareza | 
-
+--------------------------------------------------------------------------------------------------------------------
+La actividad la dividimos el trabajo entre los tres integrantes del grupo. Cada uno desarrolló una parte en Google Colab y, al terminar, reunimos todo lo que hicimos en un solo notebook llamado :**ComparacionClimaticaCompletaGrupo20**, donde quedó integrado el trabajo de todos los compañeros.
 
 # ACTIVIDAD 3: COMPARACIÓN DE DATOS CLIMATICOS
 
